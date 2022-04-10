@@ -53,7 +53,7 @@ article {
 }
 
 article.artigoprincipal {
-  background: url("/img/imagem-hero1.png") no-repeat top -5rem right;
+  background: url("./img/imagem-hero1.png") no-repeat top -5rem right;
   background-size: 700px;
 }
 article h2 {
